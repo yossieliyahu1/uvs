@@ -98,6 +98,9 @@ var SWU = React.createClass( {
 	//<div id="drgbl" ondrop="drop(event)" ondragover="allowDrop(event)"></div> 
 	// <div id="myDrpbl" className="dragdroparea"></div>
     render: function () {
+
+		return <div>ABC</div>
+		/*
     	return <div className="container-fluid">
 					<div className="row">
 						<div className="col-md-12">
@@ -123,6 +126,7 @@ var SWU = React.createClass( {
 						</div>
 					</div>	
                 </div>
+				*/
     }
 });
 

@@ -1,6 +1,6 @@
 {
-  "name": "buzz",
-  "version": "0.0.0",
+  "name": "uvs",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -50,5 +50,17 @@
     "streamify": "^0.2.4",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "description": ">gulp\r localhost:3221",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yossieliyahu1/uvs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yossieliyahu1/uvs/issues"
+  },
+  "homepage": "https://github.com/yossieliyahu1/uvs#readme"
 }
