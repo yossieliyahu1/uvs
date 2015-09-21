@@ -1,0 +1,55 @@
+﻿
+
+.search-box-wrpr {
+	margin:120px 0 70px 80px;
+	
+}
+
+.search-box {
+	width:564px;
+	height:47px;
+	font-size:20px;
+	border:1px solid #c9302c;
+	color:#808080;
+	border-right:0;
+	padding:0 0 0 10px;
+}
+
+.ontopbar {
+	position:fixed;
+	top:20px;
+	left:250px;
+	margin:0;
+	z-index:9999;
+}
+
+.searched {
+	margin-top:20px;
+}
+
+.searched-item {
+	cursor:pointer;
+	font-size:18px;
+	color:#808080;
+	height:22px;
+}
+
+.searched-title {
+	font-size:18px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:#c9302c;
+}
+
+.sbtn {
+	font-size:20px;
+	width:50px;
+	height:47px;
+	margin-top:-6px;
+	border-radius:0px;
+	border-left:0;
+	background:url('../imgs/magnifier.png') center no-repeat;
+}
+
+.tmp {
+	margin-top:200px;
+}

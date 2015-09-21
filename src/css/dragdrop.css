@@ -1,0 +1,14 @@
+﻿
+.dragdroparea {
+	width:310px;
+	height:300px;
+	border:1px dashed #9f9d9d; /* #c9302c;*/
+	border-radius:5px;
+}
+
+.dragdroptxt {
+	font-size:18px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:gray;
+	text-align:center;
+}

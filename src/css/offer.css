@@ -1,0 +1,116 @@
+﻿
+.wide-offer {
+	/*height:100px;*/
+	overflow:hidden;
+	padding:0;
+	margin:20px;
+	cursor:pointer;
+}
+
+.wide-offer .image {
+	/*
+	width:200px;
+	height:100px;
+		*/
+}
+
+.wide-offer .image img {
+	max-width:500px;
+	max-height:300px;
+}
+
+
+.wide-offer .title {
+	font-family:Arial;
+	font-size:18px;
+	color:#423b3b;
+	max-width:300px;
+	margin:5px 0 5px 0;
+}
+
+.wide-offer .desc {
+	font-family:Arial;
+	font-size:16px;
+	color:#808080;
+	max-width:300px;
+}
+
+.wide-offer .price {
+	margin:15px 0 5px 0;
+	font-family:Arial;
+	font-size:22px;
+	color:green;
+}
+
+.wide-offer .storeName {
+	margin:0 0 5px 0;
+	font-family:Arial;
+	font-size:15px;
+	color:#f00;
+}
+
+
+.square-offer {
+	width:300px;
+	height:300px;
+	padding:0;
+	margin:0;
+}
+
+
+.savedoffer {
+	width:310px;
+	height:200px;
+	padding:0;
+	margin:0;
+}
+
+.saved-offer {
+	margin:5px 0 5px 0;
+	padding:0 0 4px 0;
+	border-bottom:1px solid gray;
+	height:30px;
+	cursor:pointer;
+}
+
+.saved-offer-image {
+	width:50px;
+	height:30px;
+}
+
+.saved-offer-image img{
+	max-width:50px;
+	max-height:28px;
+}
+
+.saved-offer-store-image {
+	width:50px;
+	height:30px;
+}
+
+.saved-offer-store-image img{
+	max-width:50px;
+	max-height:28px;
+}
+
+.saved-offer-title {
+	width:135px;
+	height:28px;
+	overflow:hidden;
+	font-size:12px;
+	line-height:14px;
+	color:gray;
+	padding:0 7px 0 4px;
+}
+
+.saved-offer-price {
+	font-size:14px;
+	color:green;
+	width:50px;
+	height:28px;
+}
+
+#pxl {
+	width:1px;
+	height:1px;
+}
